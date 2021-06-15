@@ -4,7 +4,7 @@ echo
 sleep 1
 xdg-open https://youtube.com/channel/UCJcJ5ZARYowKSZzgPWSxpcQ
 echo
-figlet HACK-FB
+figlet HACK-FF
 echo
     echo "AUTHOR : MR VIRUS SPM"
     echo "TEAM   : MAFIA TEKNOLOGI"
